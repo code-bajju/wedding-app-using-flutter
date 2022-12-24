@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373594204426",
+    "project_id": "weddingapp-cda59",
+    "storage_bucket": "weddingapp-cda59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373594204426:android:33522e37536eba9d2632f3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373594204426-kivabhq54aeddsk3oq3u6cft11u9pn32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWh8NvOYYNVbL12FDARtB5ycFCRq9qP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373594204426-kivabhq54aeddsk3oq3u6cft11u9pn32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373594204426-i8bfddacii878brpm3ppu389k3skenpk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>373594204426-i8bfddacii878brpm3ppu389k3skenpk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.373594204426-i8bfddacii878brpm3ppu389k3skenpk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZMlnXTNedP8AV88oCIAqqwtdCq2Jve6g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373594204426</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.sniffsocial</string>
+	<key>PROJECT_ID</key>
+	<string>weddingapp-cda59</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weddingapp-cda59.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373594204426:ios:f55ffd2aca8bf5fc2632f3</string>
+</dict>
+</plist>
